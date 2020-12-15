@@ -1,0 +1,11 @@
+.btn-black {
+	background-color: rgb(230,230,230);
+	padding: 10px 15px;
+	border-radius: 5px;
+	color: black;
+	font-weight: bold;
+}
+.btn-black:hover {
+	background-color: grey;
+	color:white;
+}
